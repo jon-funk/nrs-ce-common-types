@@ -1,0 +1,18 @@
+{
+  "name": "nrs-common-types",
+  "version": "1.0.6",
+  "description": "Common set of types and functions to be used over NRS projects",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Team Wolverine",
+  "license": "ISC",
+  "dependencies": {
+    "nrs-common-types": "^1.0.5"
+  }
+}
