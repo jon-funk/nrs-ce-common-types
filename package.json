@@ -1,6 +1,6 @@
 {
-  "name": "nrs-common-types",
-  "version": "1.0.6",
+  "name": "nrs-ce-common-types",
+  "version": "1.0.7",
   "description": "Common set of types and functions to be used over NRS projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -13,6 +13,6 @@
   "author": "Team Wolverine",
   "license": "ISC",
   "dependencies": {
-    "nrs-common-types": "^1.0.5"
+    "nrs-ce-common-types": "^1.0.5"
   }
 }
