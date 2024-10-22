@@ -1,4 +1,4 @@
-nrs-common-types
+nrs-ce-common-types
 
 - Common source files for interfaces to a variety of types.
 
