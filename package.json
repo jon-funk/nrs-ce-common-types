@@ -13,6 +13,5 @@
   "author": "Team Wolverine",
   "license": "ISC",
   "dependencies": {
-    "nrs-ce-common-types": "^1.0.5"
   }
 }
