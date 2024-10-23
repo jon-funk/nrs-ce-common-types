@@ -13,5 +13,8 @@
   "author": "Team Wolverine",
   "license": "ISC",
   "dependencies": {
+  },
+  "publishConfig": {
+  "@jon-funk:registry": "https://npm.pkg.github.com"
   }
 }
