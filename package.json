@@ -1,11 +1,11 @@
 {
-  "name": "nrs-ce-common-types",
+  "name": "@jon-funk/nrs-ce-common-types",
   "version": "1.0.7",
   "description": "Common set of types and functions to be used over NRS projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
-    "/dist"
+    "dist"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +15,6 @@
   "dependencies": {
   },
   "publishConfig": {
-  "@jon-funk:registry": "https://npm.pkg.github.com"
+    "@jon-funk:registry": "https://npm.pkg.github.com"
   }
 }
